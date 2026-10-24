@@ -1,8 +1,9 @@
 
 {
-  "name": "ooyama-moderation-bot",
+  "name": "ooyama-admin-bot",
   "version": "1.0.0",
   "private": true,
+  "description": "大山県 Discord 管理者Bot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
